@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="400">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Lucas_van_Valckenborch_-_Tower_of_Babel_-_Google_Art_Project.jpg" width="400" alt="The Tower of Babel - Lucas van Valckenborch">
+      <img src="https://github.com/GiovaneRoxo/GiovaneRoxo/blob/main/carolina-maria-de-jesus.avif" width="400" alt="Carolina Maria De Jesus">
     </td>
     <td valign="top">
       <h1>Giovane Roxo</h1>
