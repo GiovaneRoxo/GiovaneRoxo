@@ -17,7 +17,7 @@
       </ul>
       <h2>Technologies</h2>
       <ul>
-        <li><strong>Languages:</strong> Java, SQL (MySQL), JavaScript, HTML5, CSS3</li>
+        <li><strong>Languages:</strong> Java, SQL (MySQL), JavaScript, HTML5, CSS3, Python</li>
         <li><strong>Frameworks/Tech:</strong> Spring Boot, React, Angular, JSP</li>
         <li><strong>Systems:</strong> Windows Server, ERP Sankhya, Kaspersky Security Console</li>
         <li><strong>Methods:</strong> Agile (Scrum/Kanban), ITIL/SLA Management, Version Control (Git)</li>
